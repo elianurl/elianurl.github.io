@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="284.091" height="157.875"><svg viewBox="102.649 92.561 284.091 157.875" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 102.662 92.692 L 264.142 92.692 L 264.142 131.632 L 154.362 131.632 L 154.362 153.852 L 194.742 153.852 L 194.742 189.272 L 154.362 189.272 L 154.362 211.712 L 264.142 211.712 L 264.142 250.652 L 102.662 250.652 L 102.662 92.692 Z" style="fill: #ffffff; stroke-width: 0px;" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, 0, -1.7763568394002505e-15)"></path>
+  <path d="M 224.802 92.692 L 283.969 92.692 L 346.365 200.932 L 346.365 92.692 L 386.318 92.692 L 386.318 250.652 L 327.152 250.652 L 264.757 142.192 L 264.757 250.652 L 224.802 250.652 L 224.802 92.692 Z" style="fill: #ffffff; stroke-width: 0px;" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, 0, -1.7763568394002505e-15)"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: contrast(1) brightness(0.5); } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
